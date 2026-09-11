@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://isansoft.github.io/handbook-x2v4i3/sitemap.xml
